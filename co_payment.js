@@ -7,8 +7,8 @@
 
    Payment Form Script
    
-   Author: 
-   Date:   
+    Author: Christopher Kim
+    Date:   4.11.19
    
    Filename: co_payment.js
    
